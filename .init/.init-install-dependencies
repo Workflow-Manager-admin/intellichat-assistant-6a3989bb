@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/intellichat-assistant-6a3989bb/chatbot_frontend"
+}
